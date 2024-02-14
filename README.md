@@ -1,7 +1,7 @@
 <h1 align="center">Tetris Matura project 🎮</h1>
 <p align = "center">🟧🟪🟨🟦🟥🟫🟩</p>
 
-This i my high school matura project for the subject Informatics - a digital product, that is a personal interpretation of the classic game from the eighties: "Tetris", with it made entirely in Unity. 
+This is my high school matura project for the subject Informatics - a digital product, that is a personal interpretation of the classic game from the eighties: "Tetris", with it made entirely in Unity. 
 
 <h2>What is Unity?</h2>
 
