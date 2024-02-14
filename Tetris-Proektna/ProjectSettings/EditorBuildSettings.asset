@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Sceni/Meni.unity
+    guid: de69c2e031b4a5c459ef7e1b4a66878e
+  - enabled: 1
+    path: Assets/Sceni/BirajLevel.unity
+    guid: 2dd128733efecff4f88ea6d1803a065c
+  - enabled: 1
+    path: Assets/Sceni/Informacii.unity
+    guid: fae625acc781a2e4a932e9045cdd243d
+  - enabled: 1
+    path: Assets/Sceni/InfoKontroli.unity
+    guid: e3f4438b3ccbace42988bd36b55cf23e
+  - enabled: 1
+    path: Assets/Sceni/Tetris - Nivo 1.unity
+    guid: f11df6b8bd3ce6a498117b428870cf7e
+  - enabled: 1
+    path: Assets/Sceni/Tetris - Nivo 2.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Sceni/Tetris - Nivo 3.unity
+    guid: 3b64c6e92cb676549aeba263e255b806
+  - enabled: 1
+    path: Assets/Sceni/Tetris - Nivo 4.unity
+    guid: b917e06f47bbbfc488d64ff81aee8611
+  - enabled: 1
+    path: Assets/Sceni/Tetris - Nivo 5.unity
+    guid: c6fc605f0b3bd3241ac629096c2e0607
+  - enabled: 1
+    path: Assets/Sceni/Tetris - Nivo 6.unity
+    guid: 9fa1ddaae20252f42b620b60e1fd7a81
+  m_configObjects: {}
