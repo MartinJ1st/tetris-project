@@ -5,17 +5,17 @@ This is my high school matura project for the subject Informatics - a digital pr
 
 <h2>What is Unity?</h2>
 
-Unity is a computer game creation software that supports various platforms for 🖥️ desktop , 📱 mobile devices , 🕹️ game consoles  and 🥽 virtual reality. It is a tool that provides developers with a 2D and 3D platform for creating video games. 
+Unity is a computer game creation software that supports various platforms for 🖥️ desktop, 📱 mobile devices, 🕹️ game consoles  and 🥽 virtual reality. It is a tool that provides developers with a 2D and 3D platform for creating video games. 
 
 What makes Unity so attractive to developers is that it's simple to use, as well as the built-in physics, so developers don't have to worry about every last detail.
 
 <h2>Why this type of project?</h2>
 
-The reason why my project assignment is a finished product of this kind is that I want to finish my higher education in the field of programming, by becoming a computer game programmer or a software engineer. 
+My project assignment is a finished product of this kind because I want to finish my higher education in the field of programming by becoming a computer game programmer or a software engineer. 
 
-I believe that with this project I will gain a greater idea of the principles in the creation of more complex computer games. Since Unity, like the C# programming language, is not part of the high school curriculum, I had to gain previous experience with the software and its important components, as well as the programming language, which, although similar to C++, due to its common origin, still has its differences. 
+With this project, I will gain a greater idea of the principles of creating more complex computer games. Since Unity, like the C# programming language, is not part of the high school curriculum, I had to gain previous experience with the software and its important components, as well as the programming language, which, although similar to C++, due to its common origin, still has its differences. 
 
-That's why before starting this project, I made simpler computer games: "Snake" and "Minesweeper", which are lighter in weight, due to fewer programs and elements needed for a complete creation.
+That's why before starting this project, I made simpler computer games: <a href="https://github.com/MartinJ1st/Snake-Unity" target="_blank" rel="noreferrer">Snake</a> and <a href="https://github.com/MartinJ1st/Minesweeper-Unity" target="_blank" rel="noreferrer">Minesweeper</a>, which are lighter in weight, due to fewer programs and elements needed for a complete creation.
 
 <h2>Why Tetris?</h2>
 
